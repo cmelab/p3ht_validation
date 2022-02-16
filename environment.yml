@@ -1,0 +1,27 @@
+name: order
+channels:
+  - conda-forge
+dependencies:
+  - ele
+  - fresnel>=0.13
+  - freud
+  - gsd
+  - jupyterlab
+  - matplotlib
+  - mbuild
+  - numpy
+  - openbabel
+  - pillow
+  - pip
+  - py3Dmol
+  - pyside2>=5.13
+  - python=3.8
+  - rdkit
+  - rowan
+  - signac
+  - signac-flow
+  - pip:
+    - git+https://github.com/cmelab/cmeutils
+    - git+https://github.com/cmelab/gixstapose
+    - git+https://github.com/cmelab/grits
+    - git+https://github.com/cmelab/planckton
