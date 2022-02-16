@@ -1,3 +1,6 @@
+# workspace directory
+p3ht-ua
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
